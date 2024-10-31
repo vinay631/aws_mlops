@@ -1,0 +1,7 @@
+[project]
+name = "aws-mlops"
+version = "0.1.0"
+description = "MLOps on Sagemaker"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
